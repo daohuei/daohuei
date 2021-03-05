@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **daohuei/daohuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=daohuei&count_private=true&show_icons=true&theme=calm" alt="github readme stats" height="156"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daohuei&count_private=true&langs_count=1000&theme=calm&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=daohuei&theme=calm&layout=compact"/>
